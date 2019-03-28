@@ -1,11 +1,12 @@
-# Título del trabajo
+# Sistema de Ventilación
 
-Descripción breve del proyecto a realizar (2-3 frases).
+Consiste en un sistema de ventilación que regula la temperatura
 
 ## Integrantes del equipo
 
-Nombres, apellidos, y usuario GitHub de los integrantes del equipo.
+Víctor Carpio Gómez y Juan Jusdado Serrano
 
 ## Objetivos del trabajo
 
-Lista de los objetivos que se persiguen con el trabajo propuesto.
+Diseñar en un micropocesador Arduino un sistema de ventilación que regule la temperatura obenida a partir de un sensor
+
